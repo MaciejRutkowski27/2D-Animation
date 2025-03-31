@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      plumbob-png_0: 5274622844426622730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
