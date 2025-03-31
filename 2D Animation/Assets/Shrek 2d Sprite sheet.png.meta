@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: b26c45479feb1bc45a80e385bb941945
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1492561695016923799
+    second: Shrek 2d Sprite sheet_0
+  - first:
+      213: 8775605918010337684
+    second: Shrek 2d Sprite sheet_1
+  - first:
+      213: -3725025221666234563
+    second: Shrek 2d Sprite sheet_2
+  - first:
+      213: -3141913517963677834
+    second: Shrek 2d Sprite sheet_3
+  - first:
+      213: 2133629047954281815
+    second: Shrek 2d Sprite sheet_4
+  - first:
+      213: 565066831394917776
+    second: Shrek 2d Sprite sheet_5
+  - first:
+      213: -5324985538457921567
+    second: Shrek 2d Sprite sheet_6
+  - first:
+      213: 7090207430508757009
+    second: Shrek 2d Sprite sheet_7
+  - first:
+      213: -1269497780613603937
+    second: Shrek 2d Sprite sheet_8
+  - first:
+      213: 2240308855195470203
+    second: Shrek 2d Sprite sheet_9
+  - first:
+      213: 4378976174772927636
+    second: Shrek 2d Sprite sheet_10
+  - first:
+      213: -7551780387828944108
+    second: Shrek 2d Sprite sheet_11
+  - first:
+      213: -7651259862294549749
+    second: Shrek 2d Sprite sheet_12
+  - first:
+      213: -8346096614674556350
+    second: Shrek 2d Sprite sheet_13
+  - first:
+      213: 7541146560433206633
+    second: Shrek 2d Sprite sheet_14
+  - first:
+      213: 2495865265926468586
+    second: Shrek 2d Sprite sheet_15
+  - first:
+      213: 76078205615896670
+    second: Shrek 2d Sprite sheet_16
+  - first:
+      213: -2450495161076101171
+    second: Shrek 2d Sprite sheet_17
+  - first:
+      213: 7747922615272415022
+    second: Shrek 2d Sprite sheet_18
+  - first:
+      213: 2251961840260273693
+    second: Shrek 2d Sprite sheet_19
+  - first:
+      213: 508366340708178799
+    second: Shrek 2d Sprite sheet_20
+  - first:
+      213: -427193230711727778
+    second: Shrek 2d Sprite sheet_21
+  - first:
+      213: 952372194845283128
+    second: Shrek 2d Sprite sheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1334
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 59, y: -38}
+        - {x: 59, y: 61}
+        - {x: 41, y: 95}
+        - {x: -17, y: 95}
+        - {x: -52, y: 84}
+        - {x: -59, y: 76}
+        - {x: -59, y: -47}
+        - {x: -40, y: -95}
+        - {x: 39, y: -95}
+      - - {x: -3, y: -69}
+        - {x: -2, y: -69}
+        - {x: 1, y: -66}
+        - {x: 1, y: -53}
+        - {x: 3, y: -54}
+        - {x: 5, y: -56}
+        - {x: 3, y: -58}
+        - {x: 2, y: -67}
+        - {x: -3, y: -72}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d492bdb0b594be0800000000000000
+      internalID: -1492561695016923799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f96330c4d0e4cc0800000000000000
+      internalID: -3725025221666234563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1068
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fe6ce4d4ea564d0800000000000000
+      internalID: -3141913517963677834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1068
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75515cd805c2c9d10800000000000000
+      internalID: 2133629047954281815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1068
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d46af0a4587d700800000000000000
+      internalID: 565066831394917776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1068
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e79f12add9d916b0800000000000000
+      internalID: -5324985538457921567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1104f4fa71a756260800000000000000
+      internalID: 7090207430508757009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 802
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d116f9e76d16ee0800000000000000
+      internalID: -1269497780613603937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 802
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79861db80d271f10800000000000000
+      internalID: 2240308855195470203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 802
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c3d3151af35cc30800000000000000
+      internalID: 4378976174772927636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 802
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b1b19fbfa23790800000000000000
+      internalID: -7551780387828944108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0baabf71b341d590800000000000000
+      internalID: -7651259862294549749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 536
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a9b353955bc2c80800000000000000
+      internalID: -8346096614674556350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 536
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b7cd87d887a860800000000000000
+      internalID: 7541146560433206633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 536
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae378c65c3813a220800000000000000
+      internalID: 2495865265926468586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 536
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5872e499b84e0100800000000000000
+      internalID: 76078205615896670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfce3062a71efdd0800000000000000
+      internalID: -2450495161076101171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 270
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f178e7196268b60800000000000000
+      internalID: 7747922615272415022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrek 2d Sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 270
+        width: 256
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16d270cc53904f10800000000000000
+      internalID: 2251961840260273693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc8d0759bbf5179468ed3c482cc3ebef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shrek 2d Sprite sheet_0: -1492561695016923799
+      Shrek 2d Sprite sheet_1: 8775605918010337684
+      Shrek 2d Sprite sheet_10: 4378976174772927636
+      Shrek 2d Sprite sheet_11: -7551780387828944108
+      Shrek 2d Sprite sheet_12: -7651259862294549749
+      Shrek 2d Sprite sheet_13: -8346096614674556350
+      Shrek 2d Sprite sheet_14: 7541146560433206633
+      Shrek 2d Sprite sheet_15: 2495865265926468586
+      Shrek 2d Sprite sheet_16: 76078205615896670
+      Shrek 2d Sprite sheet_17: -2450495161076101171
+      Shrek 2d Sprite sheet_18: 7747922615272415022
+      Shrek 2d Sprite sheet_19: 2251961840260273693
+      Shrek 2d Sprite sheet_2: -3725025221666234563
+      Shrek 2d Sprite sheet_20: 508366340708178799
+      Shrek 2d Sprite sheet_3: -3141913517963677834
+      Shrek 2d Sprite sheet_4: 2133629047954281815
+      Shrek 2d Sprite sheet_5: 565066831394917776
+      Shrek 2d Sprite sheet_6: -5324985538457921567
+      Shrek 2d Sprite sheet_7: 7090207430508757009
+      Shrek 2d Sprite sheet_8: -1269497780613603937
+      Shrek 2d Sprite sheet_9: 2240308855195470203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

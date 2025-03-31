@@ -395,6 +395,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1744322506091132762, guid: 305da5ec6fd3712409aa67d5a7ef897d, type: 3}
+      propertyPath: m_Size.x
+      value: 1.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744322506091132762, guid: 305da5ec6fd3712409aa67d5a7ef897d, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3332288607775950931, guid: 305da5ec6fd3712409aa67d5a7ef897d, type: 3}
+      propertyPath: m_Size.x
+      value: 1.26
+      objectReference: {fileID: 0}
     - target: {fileID: 5498288068358173059, guid: 305da5ec6fd3712409aa67d5a7ef897d, type: 3}
       propertyPath: m_Name
       value: GingerbreadObstacle
