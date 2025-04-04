@@ -10,7 +10,7 @@ public class ShrekController : MonoBehaviour
 
     private Rigidbody2D rb;
     private AudioSource audioSource;
-    [HideInInspector] public bool isDead = false;
+    public bool isDead { get; private set; } = false;
 
     void Start()
     {

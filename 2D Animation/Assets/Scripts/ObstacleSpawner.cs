@@ -38,11 +38,13 @@ public class ObstacleSpawner : MonoBehaviour
         // Optional: auto-adjust spacing if your prefab doesn't already space Top/Bottom
         Transform top = obstacle.transform.Find("GingerTop");
         Transform bottom = obstacle.transform.Find("GingerBottom");
+        Transform scoreZone = obstacle.transform.Find("ScoreZone");
 
         if (top != null && bottom != null)
         {
             top.localPosition = new Vector3(0f, gapSize / 2f, 0f);
             bottom.localPosition = new Vector3(0f, -gapSize / 2f, 0f);
+            scoreZone.localPosition = new Vector3(0f , 0f, 0f);
         }
     }
 }
